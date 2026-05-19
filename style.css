@@ -1,0 +1,18 @@
+/* Rset */
+*{
+    margin:0; /*margem do body zerada*/
+    padding:0; /*espaço interno do body zerado*/
+}
+
+.cabecalho{
+    background-color: rgb(110, 250, 133);/*cor de fundo*/
+    display:flex;/* disposição dos elementos flexíveis*/
+    justify-content:space-between;/* justificar conteúdo c/ espaços entre*/
+    align-items:center;/*alinhamento vertical do itens no centro*/
+    height: 100px;/*altura da área  do cabeçalho em 100 pixels*/
+}
+
+ul{
+    display:flex;
+    justify-content:space-between;
+}
